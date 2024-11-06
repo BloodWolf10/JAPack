@@ -1,0 +1,7 @@
+{
+    "name": "japack/php",
+    "description": "Jamaica packaging services PHP application",
+    "require": {
+        "phpmailer/phpmailer": "^6.9.2"
+    }
+}
