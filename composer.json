@@ -1,7 +1,0 @@
-{
-    "name":"japack_App/php",
-    "description": "Jamaica packagiing services php application",
-    "require":{
-        "phpmailer/phpmailer": "^6.9.2"
-    }
-}
